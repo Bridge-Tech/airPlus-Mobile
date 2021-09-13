@@ -1,0 +1,13 @@
+[
+    {
+        "nome": "Carlos",
+        "sexo": "Masculino",
+        "idade":"25",
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "endereco":"Rua Direita",
+        "telefone":"(11) 95648-6549",
+        "usuario":"default",
+        "senha":"123"
+    }
+]
